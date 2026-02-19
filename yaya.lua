@@ -1,4 +1,3 @@
 return {
-    ["teszaa"] = {ip = "158.140.170.86", expired = "2022-12-31"},
-    ["XYZ-456"] = "5.6.7.8",
+    ["teszaa"] = {ip = "158.140.170.86", expired = "2022-12-31", blacklist = "true"},
 }
